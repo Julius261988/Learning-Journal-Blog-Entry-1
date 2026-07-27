@@ -78,6 +78,8 @@ During the first week of the bootcamp, I discovered that there are many tools an
 
 One of the biggest lessons I learned is that AI is not designed to replace people but to enhance the way we work. It can automate repetitive tasks, organize information, and provide valuable insights, allowing us to focus on more creative, strategic, and meaningful work. I believe that the people who will benefit the most from AI are those who are willing to learn, adapt, and use it as a tool to improve their skills and productivity rather than fear it.
 
+# APPLIED DEEP-DIVE: PICK AN INDUSTRY
+
 ## 	What real problem does AI solve in this industry?
 
 In sports, one of the greatest advantages of AI is its ability to generate personalized training recommendations based on an athlete's progress and current fitness level. Instead of following a one-size-fits-all program, AI can adjust weekly training plans by considering previous workouts, recovery status, injury history, and performance goals. It can also detect signs of fatigue or overtraining, recommend recovery days, and provide suggestions to reduce the risk of injury. This enables athletes to train smarter rather than simply training harder, leading to long-term improvement and more consistent performance.
