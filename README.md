@@ -48,6 +48,4 @@ As a coach and event organizer, I am actively involved in:
 5. Athlete education
 6. Community fitness initiatives
 
-## Reflection
-
 Through Eightensity Active Sport, our mission is to help people—from first-time runners to competitive athletes—build confidence, improve performance, and experience the lifelong benefits of endurance sports. At the same time, we strive to raise the standard of coaching, race organization, and athlete development throughout the Davao Region by creating safe, inclusive, and professionally managed sporting events that inspire healthier and more active communities.
