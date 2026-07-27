@@ -1,7 +1,7 @@
 # Learning-Journal-Blog-Entry-1
 ### CORE REFLECTION
 
-They call me Coach J, I'm a endurance sports coach, event organizer, and the founder of Eightensity Active Sport in Digos City, Davao del Sur. I recognized for coaching runners of all abilities and for organizing road running, trail running, and multisport events in the region.
+They call me Coach J, I'm a endurance sports coach, event organizer, and the founder of Eightensity Active Sport in Digos City, Davao del Sur. I'm known for coaching runners of all abilities and for organizing road running, trail running, and multisport events in the region.
 
 ### COACH J
 
