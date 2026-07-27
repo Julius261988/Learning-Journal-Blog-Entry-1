@@ -1,5 +1,5 @@
 ## Learning Journal – Blog Entry 1
-### Core Reflection
+### ABOUT ME
 
 I am known as Coach J, an endurance sports coach, event organizer, and the founder of Eightensity Active Sport based in Digos City, Davao del Sur. I am dedicated to coaching runners of all levels and organizing professionally managed road running, trail running, and multisport events throughout the region.
 
