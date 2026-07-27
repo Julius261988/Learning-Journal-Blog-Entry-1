@@ -49,3 +49,13 @@ As a coach and event organizer, I am actively involved in:
 6. Community fitness initiatives
 
 Through Eightensity Active Sport, our mission is to help people—from first-time runners to competitive athletes—build confidence, improve performance, and experience the lifelong benefits of endurance sports. At the same time, we strive to raise the standard of coaching, race organization, and athlete development throughout the Davao Region by creating safe, inclusive, and professionally managed sporting events that inspire healthier and more active communities.
+
+## WHY I JOINED THE BOOTCAMP
+
+The coaching industry in my area has become highly competitive, and many people now call themselves coaches even without formal training or certification. As a UESCA Certified Running Coach, I believe that continuous learning is essential to staying relevant and providing quality coaching. This motivated me to explore a broader field beyond coaching by learning technology, artificial intelligence (AI), and digital marketing.
+
+I joined this bootcamp because I want to adapt to the changing landscape of coaching and business. Today, success is not only about having expertise in a specific field but also about knowing how to leverage technology to reach more people, communicate effectively, and deliver better services. I believe these skills will help me grow both professionally and as an entrepreneur.
+
+Another reason I joined is to learn how AI can improve my productivity. By understanding programming and AI tools, I can automate repetitive tasks, manage athlete and event data more efficiently, and create marketing materials without relying heavily on additional staff. This will help me maximize my time, reduce operational costs, and allow me to focus on more important aspects of coaching and business development.
+
+Ultimately, my goal is to combine my experience in endurance sports with modern technology to strengthen Eightensity Active Sport. I want to build a more innovative, efficient, and sustainable organization that provides high-quality coaching, professionally organized events, and greater value to the running community while continuing to grow with the ever-evolving digital world.
