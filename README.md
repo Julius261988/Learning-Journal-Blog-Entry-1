@@ -15,7 +15,7 @@ They call me Coach J, I'm a endurance sports coach, event organizer, and the fou
 6. Injury prevention
 7. Running form analysis
 
-My coaching philosophy centers on the belief that "Anyone Can Run." I emphasizes evidence-based training, personalized coaching, proper running mechanics, and long-term athlete development rather than simply chasing race results.
+My coaching philosophy centers on the belief that "Anyone Can Run." I emphasize evidence-based training, personalized coaching, proper running mechanics, and long-term athlete development rather than simply chasing race results.
 
 ### As a Founder of Eightensity Active Sport
 
