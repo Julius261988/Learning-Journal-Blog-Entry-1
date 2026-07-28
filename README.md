@@ -78,7 +78,7 @@ During the first week of the bootcamp, I discovered that there are many tools an
 
 One of the biggest lessons I learned is that AI is not designed to replace people but to enhance the way we work. It can automate repetitive tasks, organize information, and provide valuable insights, allowing us to focus on more creative, strategic, and meaningful work. I believe that the people who will benefit the most from AI are those who are willing to learn, adapt, and use it as a tool to improve their skills and productivity rather than fear it.
 
-# APPLIED DEEP-DIVE: PICK AN INDUSTRY
+# APPLIED DEEP-DIVE
 
 Artificial intelligence (AI) has become a valuable tool in sports by providing personalized training recommendations based on an athlete's progress and current fitness level. Instead of following a one-size-fits-all program, AI analyzes training data, recovery status, injury history, previous workouts, and performance goals to create individualized training plans. It can also identify signs of fatigue or overtraining, recommend recovery days, and suggest strategies to reduce injury risk. This allows athletes to train smarter, improve consistently, and maximize long-term performance.
 
