@@ -3,8 +3,6 @@
 
 I am known as Coach J, an endurance sports coach, event organizer, and the founder of Eightensity Active Sport based in Digos City, Davao del Sur. I am dedicated to coaching runners of all levels and organizing professionally managed road running, trail running, and multisport events throughout the region.
 
-#### Coach J
-
 I am a UESCA (United Endurance Sports Coaching Academy) Certified Running Coach with experience in coaching:
 
 1. Road running (5K to marathon)
@@ -17,7 +15,7 @@ I am a UESCA (United Endurance Sports Coaching Academy) Certified Running Coach 
 
 My coaching philosophy is built on the belief that "Anyone Can Run." I emphasize evidence-based training, personalized coaching, proper running mechanics, and long-term athlete development rather than simply pursuing race results.
 
-#### Founder of Eightensity Active Sport
+Founder of Eightensity Active Sport
 
 Eightensity Active Sport is a sports organization based in Digos City, Davao del Sur, dedicated to:
 
@@ -29,7 +27,7 @@ Eightensity Active Sport is a sports organization based in Digos City, Davao del
 
 Our organization has successfully organized numerous endurance events and is committed to making quality coaching and professionally managed races more accessible throughout Davao del Sur and the surrounding communities.
 
-#### On behalf of the Eightensity Active Sport team, we believe endurance sports should be:
+On behalf of the Eightensity Active Sport team, we believe endurance sports should be:
 
 1. Accessible to everyone
 2. Safe and professionally organized
